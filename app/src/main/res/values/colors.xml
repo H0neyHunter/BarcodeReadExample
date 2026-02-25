@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="backkground">#0F1A2C</color>
+    <color name="header">@color/backkground</color>
+    <color name="toolbar">@color/backkground</color>
+    <color name="teal_200">@color/button</color>
+    <color name="teal_700">@color/progresscolor</color>
+    <color name="button">@color/teal_700</color>
+    <color name="progresscolor">#1F8BE1</color>
+    <color name="switchchecked">#048A09</color>
+</resources>
